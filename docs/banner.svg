@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+<title id="title">Teklif</title><desc id="desc">Aynı masa. Farklı seçimler. 36 kategori, 2–6 oyuncu, telefon ve TV.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#242034"/><stop offset="1" stop-color="#493268"/></linearGradient></defs>
+<rect width="1280" height="330" rx="28" fill="url(#bg)"/>
+<circle cx="1160" cy="10" r="230" fill="#7853ec" opacity=".12"/><circle cx="1100" cy="365" r="220" fill="#b9a0fc" opacity=".1"/>
+<g transform="translate(68 74)"><rect width="76" height="82" rx="23" fill="#8d6af4" transform="rotate(-9 38 41)"/><text x="38" y="61" text-anchor="middle" font-family="Arial,sans-serif" font-size="59" font-weight="800" fill="white">T</text></g>
+<text x="166" y="139" fill="white" font-size="72" font-weight="800" font-family="Arial,sans-serif" letter-spacing="-3">teklif</text>
+<text x="70" y="207" fill="#ddd0f8" font-family="Arial,sans-serif" font-size="29">Aynı masa. Farklı seçimler.</text>
+<text x="72" y="271" fill="#bba7d8" font-family="Arial,sans-serif" font-size="18" letter-spacing="1">36 KATEGORİ  ·  2–6 OYUNCU  ·  TELEFON + TV</text>
+<g transform="translate(883 65) rotate(-9 120 105)"><rect width="202" height="225" rx="24" fill="#30263f" stroke="#a88be4" stroke-width="2"/><rect x="17" y="17" width="168" height="130" rx="15" fill="#8c6ae8"/><text x="101" y="105" fill="white" font-family="Arial,sans-serif" font-size="67" text-anchor="middle" font-weight="700">+1</text><text x="101" y="183" fill="#e9e0fa" font-family="Arial,sans-serif" font-size="20" text-anchor="middle">Artıran var mı?</text><rect x="34" y="199" width="134" height="5" rx="3" fill="#594674"/><rect x="34" y="199" width="97" height="5" rx="3" fill="#c2a5ff"/></g>
+</svg>

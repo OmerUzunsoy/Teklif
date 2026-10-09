@@ -1,0 +1,32 @@
+{
+  "name": "teklif",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node scripts/test.mjs",
+    "test:images": "node scripts/test.mjs --images",
+    "images:cache": "node scripts/cache-images.mjs"
+  },
+  "description": "Aynı masa, farklı seçimler: 2–6 kişilik, 36 kategorili açık artırma parti oyunu.",
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmerUzunsoy/Teklif.git"
+  },
+  "homepage": "https://github.com/OmerUzunsoy/Teklif#readme",
+  "bugs": {
+    "url": "https://github.com/OmerUzunsoy/Teklif/issues"
+  },
+  "keywords": [
+    "auction",
+    "party-game",
+    "multiplayer",
+    "turkish",
+    "lan",
+    "tv-controller"
+  ]
+}

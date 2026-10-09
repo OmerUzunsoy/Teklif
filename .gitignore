@@ -1,0 +1,21 @@
+# Oda üyelikleri, çalışma kayıtları ve indirilen görseller
+.runtime/
+
+# Yerel ayarlar ve özel dosyalar
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+
+# Geliştirme çıktıları
+node_modules/
+coverage/
+test-results/
+*.log
+*.zip
+image-download-errors.json
+image-missing.json
+
+# dist/ düzenlenebilir kaynak kodudur; izlenmeye devam eder.
